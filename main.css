@@ -1,0 +1,22 @@
+
+body{
+    background: #2F4B67;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    height:100vh;
+    overflow:hidden;
+
+}
+.navigation{
+    height: 10vh;
+    margin: 20px;
+    display: flex;
+    font-size: 20px;
+}
+.navigation a{
+    margin: 10px;
+    color: white;
+}
+
+
