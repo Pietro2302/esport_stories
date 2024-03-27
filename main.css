@@ -9,12 +9,14 @@ body{
 
 }
 .navigation{
-    height: 10vh;
-    margin: 20px;
+    background-color: black;
+    height: 60px;
+    margin: 0px;
     display: flex;
     font-size: 20px;
 }
 .navigation a{
+    margin-top: 5px;
     margin: 10px;
     color: white;
 }
